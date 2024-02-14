@@ -1,0 +1,29 @@
+{
+    "id": "14FF83D1",
+    "path": "/scratch/Shares/rinn/Kit/learning/kit_lessons.Rmd",
+    "project_path": "kit_lessons.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1707945005873.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "23,13",
+        "scrollLine": "8",
+        "last_setup_crc32": "",
+        "chunk_output_type": "console"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1705699619,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1705699619,
+    "read_only": false,
+    "read_only_alternatives": []
+}

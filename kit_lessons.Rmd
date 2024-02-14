@@ -1,0 +1,28 @@
+---
+title: "kits_first_lessons"
+output: html_document
+date: "2024-01-19"
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ggplot2)
+library(magrittr)
+library(purrr)
+library(readr)
+library(tibble)
+library(tidyr)
+library(dplyr)
+library(BiocManager)
+library(Rcpp)
+library(BiocParallel)
+
+
+
+# Be careful 
+library(DESeq2)
+
+```
+
